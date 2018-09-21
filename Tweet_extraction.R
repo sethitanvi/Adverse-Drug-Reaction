@@ -8,10 +8,10 @@ install.packages("httr")
 install.packages("httpuv")
 
 
-consumer_key = 'DZyJyRLm7kdjysNntzjxFVY0p'
-consumer_secret = 'Xfrm0ZFTYvlUME7doJmuOhoG9Hm9uS5eJYeprpSvAOhdGMvWFQ'
-access_token = '2194197938-ISsKNRs9oDSMFOxtHcDERWBtZeulyDjdNJWOVZk'
-access_token_secret = 'mmnJ36QtVsMVRUmp1UQ8q1IwVTXsgjEvocyUtrP076hsb'
+consumer_key = 'consumer_key'
+consumer_secret = 'consumer_secret'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
 
 
 appname <- "Predictive_Digital_Bot"
