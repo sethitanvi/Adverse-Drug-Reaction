@@ -10,6 +10,6 @@
 7. sentiment_test50.csv : Test data for final sentiment classification. This shows how the classification of tweets was done.
 8. TweetsWithUnidentifiedSideEffectsStem.csv: This is the final output file which shows the tweets which have the adverse reactions.
 
-The details are in the ADR_Report and the code is well commented. You can post your queries to us.
+The details are in the ADR_Report document and the code is well commented. You can post your queries to us.
 
 
